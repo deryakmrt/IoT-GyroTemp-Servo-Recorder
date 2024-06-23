@@ -9,4 +9,4 @@ Eklenen kütüphaneler:
 #include <Adafruit_GFX.h>  
 #include <Wire.h>  
 #include <Servo.h>  
-#include <SD.h>  
+#include <SD.h> 
